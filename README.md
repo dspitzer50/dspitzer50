@@ -3,7 +3,8 @@
 
 <p> A place to show off what I'm doing and have done in the past. <br/></p>
 
-[HackMD Tutorial Book](https://hackmd.io/c/tutorials/%2Fs%2Ftutorials) <br/>
+<p> Not mine, but very useful <br/>
+[HackMD Tutorial Book](https://hackmd.io/c/tutorials/%2Fs%2Ftutorials) </p>
 
 
 <!-- 
