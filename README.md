@@ -1,7 +1,7 @@
-### Hi there 👋
+### Hi there 👋 
 # Welcome Bootcamp
  
-Hey, how are you finding the bootcamp?
+Hey, how are you finding the bootcamp? 
 
 - [ ] Good
 - [ ] Bad
@@ -21,12 +21,12 @@ Here is some code `sudo matt-is-awsome`
 print("ello eh")
 ```
 
-[Matt's Github](https://github.com/mattdavis0351)
-[Welcome Bootcamp](/ZMYJ8jqZRdatEjK9o8XqoQ)
-[HackMD Tutorial Book](/3L0F8p77QueY1YIq-3e-fg)
+[Matt's Github](https://github.com/mattdavis0351)<br>
+[Welcome Bootcamp](/ZMYJ8jqZRdatEjK9o8XqoQ)<br>
+[HackMD Tutorial Book](https://hackmd.io/c/tutorials/%2Fs%2Ftutorials)<br>
 
 
-<!--
+
 **dspitzer50/dspitzer50** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -39,4 +39,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
