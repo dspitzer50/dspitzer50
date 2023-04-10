@@ -1,6 +1,16 @@
-### Hi there 👋 
-# Welcome Bootcamp
- 
+
+# Hi there! Welcome  👋 
+
+<p> A place to show off what I'm doing and have done in the past. <br/></p>
+
+[HackMD Tutorial Book](https://hackmd.io/c/tutorials/%2Fs%2Ftutorials) <br/>
+
+
+<!-- 
+---
+
+## Stuff / examples to delete.
+
 Hey, how are you finding the bootcamp? 
 
 - [ ] Good
@@ -40,3 +50,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+ -->
